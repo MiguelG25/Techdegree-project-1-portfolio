@@ -158,6 +158,22 @@ header .profile-image:hover {
   border-color: #094d06;
 }
 
+#background:hover {
+  border-color: #094d06;
+}
+
+#goals:hover {
+  border-color: #094d06;
+}
+
+#experience:hover {
+  border-color: #094d06;
+}
+
+#contact:hover {
+  border-color: #094d06;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
